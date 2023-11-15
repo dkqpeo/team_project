@@ -9,3 +9,10 @@ def check_even(num) :
       print(num, "짝수")
 
 check_even(number)
+
+def list_count():
+    list = [1,2,3]
+    print(len(list))
+
+list_count()
+
